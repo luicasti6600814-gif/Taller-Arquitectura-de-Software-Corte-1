@@ -82,3 +82,8 @@ RF-06 (Base de Datos):
 El sistema debe almacenar la información de usuarios, médicos, especialidades, horarios y citas en una base de datos relacional.
 
 ## Arquitectura propuesta 
+
+### Tecnologias sugeridas 
+- Fronted: React
+- backend: Node.js
+- Base de datos: PostgreSQL

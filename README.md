@@ -80,3 +80,5 @@ El sistema debe calcular y mostrar el tiempo estimado de espera en urgencias bas
 
 RF-06 (Base de Datos):
 El sistema debe almacenar la información de usuarios, médicos, especialidades, horarios y citas en una base de datos relacional.
+
+## Arquitectura propuesta 
